@@ -1,7 +1,7 @@
 # Statistica
 
 ## Piccioni
-### Programma Statistica Ross (Probabilità e statistica)
+### Programma Statistica Ross (Probabilità e statistica) (Pesci)
 - [ ] 2 Statistica descrittiva (19-32 ~12 pagine)
   - [ ] 2.3 le grandezze che sintetizzano i dati
     - [ ] 2.3.1 Media, mediana e moda campionarie
@@ -71,14 +71,13 @@
   - [ ] 8.3 la verifica di ipotesi
     - [ ] 8.3.1 il caso in cui la vaarianza è nota
     - [ ] 8.3.2 Quando la varianza non è nota: il test t
-* Test chi-quadrato
-* Distribuzione di Weibull
-* Indice di correlazione lineare
+* - [ ] Test chi-quadrato
+* - [ ] Distribuzione di Weibull
+* - [ ] Indice di correlazione lineare
 
+### Programma Statistica Ross (2) (Calcolo delle probabilità) (Noci) 
     
-    
-    
-  
+--
 
 
 
