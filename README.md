@@ -77,7 +77,46 @@
 
 ### Programma Statistica Ross (2) (Calcolo delle probabilità) (Noci) 
     
---
+- [ ] 1 Analisi combinatoria (1-15 ~16 pagine)
+  - [ ] 1.1 Introduzione 
+  - [ ] 1.2 Il principio del calcolo combinatorio 
+  - [ ] 1.3 Permutazioni
+  - [ ] 1.4 Combinazioni
+  - [ ] 1.5 Coefficienti multinomiali
+  - [ ] 1.6 Il numero di soluzioni intere di una equazioni
+- [ ] 2 Assiomi della probabilità (25-53 ~29 pagine)
+  - [ ] 2.1 Introduzione
+  - [ ] 2.2 Spazio cmapionario ed eventi
+  - [ ] 2.3 Assiomi della probabilità
+  - [ ] 2.4 Alcune semplici proprietà
+  - [ ] 2.5 Spazi campionari con esiti equiprobabili
+  - [ ] 2.6 La probabilità come funzione di insieme continua
+  - [ ] 2.7 La probabilità come una misura della fiducia
+- [ ] 3 Probabilità condizionata e indipendenza (67-104 ~38 pagine)
+  - [ ] 3.1 Introduzione
+  - [ ] 3.2 Probabilità condizionata
+  - [ ] 3.3 La formula di Bayes
+  - [ ] 3.4 Eventi indipendenti
+  - [ ] 3.5 P(*|F) è una probabilità
+- [ ] 4 Variabili aleatorie (135-182 183-189 ~55 pagine)
+  - [ ] 4.1 Variabili aleatorie
+  - [ ] 4.2 Variabili aleatorie discrete
+  - [ ] 4.3 Valore atteso 
+  - [ ] 4.4 Valore atteso di una funzione di una variabile aleatoria
+  - [ ] 4.5 Varianza
+  - [ ] 4.6 Le variabili aleatorie di Bernoulli e binomiali
+    - [ ] 4.6.1 Proprietà delle variabili aleatorie binomiali
+    - [ ] 4.6.2 Calcolo della funzione di distribuzione
+  - [ ] 4.7 La variabile aleatoria di Poisson
+    - [ ] 4.7.1 Calcolo della funzione di distribuzione di una variabile  di Poisson
+  - [ ] 4.8 Ulteriori distribuzioni di probabilità discrete
+    - [ ] 4.8.1 La variabile aleatoria geometrica
+    - [ ] 4.8.2 La variabile aleatoria binomiale negativa
+    - [ ] 4.8.3 La variabile aleatoria ipergeometrica
+  - [ ] 4.9 Valore atteso della somma di variabili
+  - [ ] 4.10 Proprietà delle funzioni di distribuzione
+- [ ] 5 ---
+   
 
-
+## Blitzstain
 
