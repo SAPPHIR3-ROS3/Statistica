@@ -115,8 +115,54 @@
     - [ ] 4.8.3 La variabile aleatoria ipergeometrica
   - [ ] 4.9 Valore atteso della somma di variabili
   - [ ] 4.10 Proprietà delle funzioni di distribuzione
-- [ ] 5 ---
+- [ ] 5 Variabili aleatorie continue (213-245 248-249 ~35 pagine)
+  - [ ] 5.1 Introduzione
+  - [ ] 5.2 Valore atteso e varianza di una variabile aleatoria continua
+  - [ ] 5.3 La variabile aleatoria uniforme
+  - [ ] 5.4 Variabili aleatorie normali
+    - [ ] 5.4.1 L'approssimazione normale della distribuzione binomiale
+  - [ ] 5.5 Variabili aleatorie esponenziali
+    - [ ] 5.5.1 Funzioni di Rischio
+  - [ ] 5.6 altre distribuzioni continue
+    - [ ] 5.6.1 La distribuzione Gamma
+    - [ ] 5.6.2 La distribuzione di Weibull
+  - [ ] 5.7 La distribuzione di una variabile aleatoria
+- [ ] 6 Leggi congiunte di variabili aleatorie (265-304 308-318 ~50 pagine)
+  - [ ] 6.1 Funzioni di distribuzione congiunte
+  - [ ] 6.2 Variabili aleatorie indipendenti
+  - [ ] 6.3 Somme di variabili aleatorie indipendenti
+    - [ ] 6.3.1 Variabili aleatorie indipendenti
+    - [ ] 6.3.2 Variabili aleatorie Gamma
+    - [ ] 6.3.3 Variabili aleatorie normali
+    - [ ] 6.3.4 Varaibili aleatorie di Poisson e binomiali
+  - [ ] 6.4 Distribuzioni condizionate: il caso discreto
+  - [ ] 6.5 Distribuzioni condizionate: il caso continuo
+  - [ ] 6.7 Distribuzioni congiunte di funzioni di variabili aleatorie
+  - [ ] 6.8 Variabili aleatorie scambiabili
+- [ ] 7 Proprietà del valore atteso (335-394 ~60 pagine)
+  - [ ] 7.1 Introduzione
+  - [ ] 7.2 Valore atteso di somme di variabili aleatorie
+    - [ ] 7.2.1 Ottenere delle stime del valore atteso con metodo probabilistico
+    - [ ] 7.2.2 L'identità dei massimi e dei minimi
+  - [ ] 7.3 I momenti del numero di eventi che si realizzano
+  - [ ] 7.4 Covarianza, varianza div una somma e correlazioni
+  - [ ] 7.5 Valore atteso condizionato
+    - [ ] 7.5.1 Definizioni
+    - [ ] 7.5.2 Calcolo dei valori attesi con il condizionamento
+    - [ ] 7.5.3 Calcolo delle probabilità con condizionamento
+    - [ ] 7.5.4 Varianza condizionata
+  - [ ] Valore atteso condizionato e predizione
+- [ ] 8 Teoremi limite (435-459 ~25 pagine)
+  - [ ] 8.1 Introduzione
+  - [ ] 8.2 La disuguaglianza di Chebyshev e la legge debole dei grandi numeri
+  - [ ] 8.3 Il teorema centrale del limite
+  - [ ] 8.4 La legge forte dei grandi numeri
+  - [ ] 8.5 Ulteriori disuguaglianze
+  - [ ] 8.6 Stime della probailità di errore qunado si approssima la somma di variabili aleatorie bernoulliane indipendenti
+- [ ] 9 Ulteriori argomenti di probabilità
+  - [ ] 9.1 Il processo di Poisson
+  
    
 
-## Blitzstain
+## Blitzstain (WIP)
 
